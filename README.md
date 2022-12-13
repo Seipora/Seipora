@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seipora 
+- 👋 Hi, I’m Mirela
 - 👀 I’m interested in web development
 
 <!---
