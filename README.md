@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Seipora 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, Python
 
 <!---
 Seipora/Seipora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
